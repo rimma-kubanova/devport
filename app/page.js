@@ -1,5 +1,5 @@
 import About from '@/components/About'
-import About from '@/components/Contact'
+import Contact from '@/components/Contact'
 import Image from 'next/image'
 
 export default function Home() {
